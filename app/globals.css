@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Paksa light mode (case TBDelapanShop) */
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background: #ffffff;
+  color: #0f172a;
+  margin: 0;
+  padding: 0;
+}

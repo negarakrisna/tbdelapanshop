@@ -1,0 +1,132 @@
+[
+  {
+   "id": "p1",
+   "title": "Mesin Gerinda Tangan GWS 700 BOSCH Professional Angle Grinder 4 Inci",
+   "brand": "BOSCH",
+   "price": 450000,
+   "discountPrice": 353500,
+   "discountLabel": "21%",
+   "image": "data/images/products/gws01.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Gerinda-Tangan-GWS-700-BOSCH-Professional-Angle-Grinder-4-Inci-i.1521316875.29534303449?extraParams=%7B%22display_model_id%22%3A227722111509%7D"
+  },
+  {
+   "id": "p2",
+   "title": "Mesin Bor Listrik GBM 400 BOSCH Proffesional Rotary Drill 10 MM",
+   "brand": "BOSCH",
+   "price": 450000,
+   "discountPrice": 375000,
+   "discountLabel": "16%",
+   "image": "data/images/products/gbm01.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Listrik-GBM-400-BOSCH-Proffesional-Rotary-Drill-10-MM-i.1521316875.27484304990?extraParams=%7B%22display_model_id%22%3A248250123685%2C%22model_selection_logic%22%3A3%7D&sp_atk=9abc36ad-8715-4f33-9c98-61ec7496afda&xptdk=9abc36ad-8715-4f33-9c98-61ec7496afda"
+  },
+  {
+   "id": "p3",
+   "title": "Mesin Bor Beton GSB 600 BOSCH Professional Impact Drill 13 MM",
+   "brand": "BOSCH",
+   "price": 700000,
+   "discountPrice": 550000,
+   "discountLabel": "21%",
+   "image": "data/images/products/gsb01.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Beton-GSB-600-BOSCH-Professional-Impact-Drill-13-MM-i.1521316875.26684325445?extraParams=%7B%22display_model_id%22%3A253250726312%2C%22model_selection_logic%22%3A3%7D&sp_atk=6c92fb95-d348-4b94-95a5-335ef2c1855c&xptdk=6c92fb95-d348-4b94-95a5-335ef2c1855c"
+  },
+  {
+   "id": "p4",
+   "title": "Mesin Gerinda Tangan GWS 700 BOSCH Profesional Angle Grinder 4 Inci 4 PCS",
+   "brand": "BOSCH",
+   "price": 1850500,
+   "discountPrice": 1410000,
+   "discountLabel": "24%",
+   "image": "data/images/products/gws4pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Gerinda-Tangan-GWS-700-BOSCH-Profesional-Angle-Grinder-4-Inci-4-PCS-i.1521316875.47803224430?extraParams=%7B%22display_model_id%22%3A415309744938%2C%22model_selection_logic%22%3A3%7D&sp_atk=d02b0a3b-d700-41e5-acc9-b910f3d125c3&xptdk=d02b0a3b-d700-41e5-acc9-b910f3d125c3"
+  },
+  {
+   "id": "p5",
+   "title": "Mesin Bor Listrik GBM 400 BOSCH Professional Rotary Drill 10 MM 2PCS",
+   "brand": "BOSCH",
+   "price": 950000,
+   "discountPrice": 750000,
+   "discountLabel": "22%",
+   "image": "data/images/products/gbm2pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Listrik-GBM-400-BOSCH-Professional-Rotary-Drill-10-MM-2PCS-i.1521316875.45053360502?extraParams=%7B%22display_model_id%22%3A385321074809%2C%22model_selection_logic%22%3A3%7D&sp_atk=981bf8c1-79a2-4fa2-9dd0-103b1cff1b4e&xptdk=981bf8c1-79a2-4fa2-9dd0-103b1cff1b4e"
+  },
+  {
+   "id": "p6",
+   "title": "Mesin Bor Beton GSB 600 BOSCH Professional Impact Drill 13 MM 2PCS",
+   "brand": "BOSCH",
+   "price": 1400000,
+   "discountPrice": 1100000,
+   "discountLabel": "22%",
+   "image": "data/images/products/gsb2pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Beton-GSB-600-BOSCH-Professional-Impact-Drill-13-MM-2PCS-i.1521316875.54303334707?extraParams=%7B%22display_model_id%22%3A355321108869%2C%22model_selection_logic%22%3A3%7D&sp_atk=e8ef9abb-13cd-40f4-8f6f-10486cd00f32&xptdk=e8ef9abb-13cd-40f4-8f6f-10486cd00f32"
+  },
+  {
+   "id": "p7",
+   "title": "Mesin Gerinda Tangan BOSCH GWS 700 Profesional Angle Grinder 4 Inci 1 Karton 8 PCS",
+   "brand": "BOSCH",
+   "price": 3600000,
+   "discountPrice": 2820000,
+   "discountLabel": "21%",
+   "image": "data/images/products/gws1karton.png",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Gerinda-Tangan-BOSCH-GWS-700-Profesional-Angle-Grinder-4-Inci-1-Karton-8-PCS-i.1521316875.41227241188?extraParams=%7B%22display_model_id%22%3A267254749414%2C%22model_selection_logic%22%3A3%7D&sp_atk=4936fe1a-f748-4e9c-ace3-8de998d159ba&xptdk=4936fe1a-f748-4e9c-ace3-8de998d159ba"
+  },
+  {
+   "id": "p8",
+   "title": "Mesin Bor Listrik BOSCH GBM 400 Profesional Rotary Drill 10 MM 1 Karton 5 PCS",
+   "brand": "BOSCH",
+   "price": 2250000,
+   "discountPrice": 1875000,
+   "discountLabel": "17%",
+   "image": "data/images/products/gbm1karton.png",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Listrik-BOSCH-GBM-400-Profesional-Rotary-Drill-10-MM-1-Karton-5-PCS-i.1521316875.46703093086?extraParams=%7B%22display_model_id%22%3A375296520825%2C%22model_selection_logic%22%3A3%7D&sp_atk=1d260cb9-d7b2-4293-bed5-eef29ac6cbc0&xptdk=1d260cb9-d7b2-4293-bed5-eef29ac6cbc0"
+  },
+  {
+   "id": "p9",
+   "title": "Mesin Bor Beton BOSCH GSB 600 Profesional Impact Drill 13 MM 1 Karton 5 PCS",
+   "brand": "BOSCH",
+   "price": 3500000,
+   "discountPrice": 2750000,
+   "discountLabel": "21%",
+   "image": "data/images/products/gsb1karton.png",
+   "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Beton-BOSCH-GSB-600-Profesional-Impact-Drill-13-MM-1-Karton-5-PCS-i.1521316875.47253083784?extraParams=%7B%22display_model_id%22%3A340296572843%2C%22model_selection_logic%22%3A3%7D&sp_atk=9b1df6b4-7907-4038-a51e-d8a9784e185e&xptdk=9b1df6b4-7907-4038-a51e-d8a9784e185e"
+  },
+  {
+   "id": "p10",
+   "title": "Mata Gerinda Potong Besi BOSCH Standart Cutting Disc 4 Inci 1 PCS",
+   "brand": "BOSCH",
+   "price": 3000,
+   "discountPrice": 2125,
+   "discountLabel": "29%",
+   "image": "data/images/products/potongb1pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mata-Gerinda-Potong-Besi-BOSCH-Standart-Cutting-Disc-4-Inci-1-PC-i.1521316875.26134468369?extraParams=%7B%22display_model_id%22%3A99818440530%2C%22model_selection_logic%22%3A2%7D&sp_atk=cd7998fd-dabc-49c5-a40a-3d519f940c56&xptdk=cd7998fd-dabc-49c5-a40a-3d519f940c56"
+  },
+  {
+   "id": "p11",
+   "title": "Mata Gerinda Potong Besi BOSCH Standart Cutting 4 Inci Repack 20PCS",
+   "brand": "BOSCH",
+   "price": 60000,
+   "discountPrice": 47848,
+   "discountLabel": "20%",
+   "image": "data/images/products/potongb20pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mata-Gerinda-Potong-Besi-BOSCH-Standart-Cutting-4-Inci-Repack-20PCS-i.1521316875.54601229970?extraParams=%7B%22display_model_id%22%3A385111442355%2C%22model_selection_logic%22%3A2%7D&sp_atk=59ae46eb-e7e6-4ad0-8fb0-4231adbb4605&xptdk=59ae46eb-e7e6-4ad0-8fb0-4231adbb4605"
+  },
+  {
+   "id": "p12",
+   "title": "Mata Gerinda Potong Besi BOSCH Standart Cutting Disc 4 Inci 1 Kotak 50 PCS",
+   "brand": "BOSCH",
+   "price": 130000,
+   "discountPrice": 115000,
+   "discountLabel": "12%",
+   "image": "data/images/products/potongb50pcs.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mata-Gerinda-Potong-Besi-BOSCH-Standart-Cutting-Disc-4-Inci-1-Kotak-50-PCS-i.1521316875.29334463705?extraParams=%7B%22display_model_id%22%3A248263155939%2C%22model_selection_logic%22%3A3%7D&sp_atk=757a44a1-16d5-4a41-a962-467094526111&xptdk=757a44a1-16d5-4a41-a962-467094526111"
+  },
+  {
+   "id": "p13",
+   "title": "BOSCH Mata Gerinda Potong Besi Standart Cutting Disc 4 Inci 1 Karton 600 PCS",
+   "brand": "BOSCH",
+   "price": 1560000,
+   "discountPrice": 1380000,
+   "discountLabel": "12%",
+   "image": "data/images/products/potongb1karton.jpeg",
+   "shopeeUrl": "https://shopee.co.id/Mata-Gerinda-Potong-Besi-BOSCH-Standart-Cutting-Disc-4-Inci-1-Kotak-50-PCS-i.1521316875.29334463705?extraParams=%7B%22display_model_id%22%3A248263155939%2C%22model_selection_logic%22%3A3%7D&sp_atk=757a44a1-16d5-4a41-a962-467094526111&xptdk=757a44a1-16d5-4a41-a962-467094526111"
+  }
+]
