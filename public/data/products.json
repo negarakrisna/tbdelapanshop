@@ -5,7 +5,7 @@
    "brand": "BOSCH",
    "price": 450000,
    "discountPrice": 353500,
-   "discountLabel": "21%",
+   "discountLabel": "18%",
    "image": "data/images/products/gws01.jpeg",
    "shopeeUrl": "https://shopee.co.id/Mesin-Gerinda-Tangan-GWS-700-BOSCH-Professional-Angle-Grinder-4-Inci-i.1521316875.29534303449?extraParams=%7B%22display_model_id%22%3A227722111509%7D"
   },
@@ -14,8 +14,8 @@
    "title": "Mesin Bor Listrik GBM 400 BOSCH Proffesional Rotary Drill 10 MM",
    "brand": "BOSCH",
    "price": 450000,
-   "discountPrice": 375000,
-   "discountLabel": "16%",
+   "discountPrice": 389999,
+   "discountLabel": "13%",
    "image": "data/images/products/gbm01.jpeg",
    "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Listrik-GBM-400-BOSCH-Proffesional-Rotary-Drill-10-MM-i.1521316875.27484304990?extraParams=%7B%22display_model_id%22%3A248250123685%2C%22model_selection_logic%22%3A3%7D&sp_atk=9abc36ad-8715-4f33-9c98-61ec7496afda&xptdk=9abc36ad-8715-4f33-9c98-61ec7496afda"
   },
@@ -24,8 +24,8 @@
    "title": "Mesin Bor Beton GSB 600 BOSCH Professional Impact Drill 13 MM",
    "brand": "BOSCH",
    "price": 700000,
-   "discountPrice": 550000,
-   "discountLabel": "21%",
+   "discountPrice": 580000,
+   "discountLabel": "17%",
    "image": "data/images/products/gsb01.jpeg",
    "shopeeUrl": "https://shopee.co.id/Mesin-Bor-Beton-GSB-600-BOSCH-Professional-Impact-Drill-13-MM-i.1521316875.26684325445?extraParams=%7B%22display_model_id%22%3A253250726312%2C%22model_selection_logic%22%3A3%7D&sp_atk=6c92fb95-d348-4b94-95a5-335ef2c1855c&xptdk=6c92fb95-d348-4b94-95a5-335ef2c1855c"
   },
@@ -128,5 +128,75 @@
    "discountLabel": "12%",
    "image": "data/images/products/potongb1karton.jpeg",
    "shopeeUrl": "https://shopee.co.id/Mata-Gerinda-Potong-Besi-BOSCH-Standart-Cutting-Disc-4-Inci-1-Kotak-50-PCS-i.1521316875.29334463705?extraParams=%7B%22display_model_id%22%3A248263155939%2C%22model_selection_logic%22%3A3%7D&sp_atk=757a44a1-16d5-4a41-a962-467094526111&xptdk=757a44a1-16d5-4a41-a962-467094526111"
+  },
+  {
+   "id": "p14",
+   "title": "Paket Tukang BOSCH Mesin Gerinda GWS 700 Angle Grinder 4 Inci x Mesin Bor GBM 400 Rotary Drill 10 MM",
+   "brand": "BOSCH",
+   "price": 900000,
+   "discountPrice": 745000,
+   "discountLabel": "17%",
+   "image": "data/images/products/gwsgbm.jpg",
+   "shopeeUrl": "https://shopee.co.id/Paket-Tukang-BOSCH-Mesin-Gerinda-GWS-700-Angle-Grinder-4-Inci-x-Mesin-Bor-GBM-400-Rotary-Drill-10-MM-i.1521316875.40263715600?extraParams=%7B%22display_model_id%22%3A276133557223%2C%22model_selection_logic%22%3A3%7D&sp_atk=fa50bf51-7cfe-4713-9e8a-0892a4a2e809&xptdk=fa50bf51-7cfe-4713-9e8a-0892a4a2e809"
+  },
+  {
+   "id": "p15",
+   "title": "Paket Tukang BOSCH Mesin Gerinda GWS 700 Angle Grinder 4 Inci x Mesin Bor Beton GSB 600 Impact Drill 13 MM",
+   "brand": "BOSCH",
+   "price": 1150000,
+   "discountPrice": 945000,
+   "discountLabel": "17%",
+   "image": "data/images/products/gwsgsb.jpg",
+   "shopeeUrl": "https://shopee.co.id/Paket-Tukang-BOSCH-Mesin-Gerinda-GWS-700-Angle-Grinder-4-Inci-x-Mesin-Bor-Beton-GSB-600-Impact-Drill-13-MM-i.1521316875.43063715452?extraParams=%7B%22display_model_id%22%3A276133575695%2C%22model_selection_logic%22%3A3%7D&sp_atk=d5ee6fcd-1761-4ea7-a103-003a1813387e&xptdk=d5ee6fcd-1761-4ea7-a103-003a1813387e"
+  },
+  {
+   "id": "p16",
+   "title": "Paket BOSCH Mesin Bor Beton GSB 600 Impact Drill 13 MM + Mesin Bor GBM 400 Rotary Drill 10 MM",
+   "brand": "BOSCH",
+   "price": 1300000,
+   "discountPrice": 1050000,
+   "discountLabel": "19%",
+   "image": "data/images/products/gbmgsb.jpg",
+   "shopeeUrl": "https://shopee.co.id/Paket-BOSCH-Mesin-Bor-Beton-GSB-600-Impact-Drill-13-MM-Mesin-Bor-GBM-400-Rotary-Drill-10-MM-i.1521316875.50753116057?extraParams=%7B%22display_model_id%22%3A435299759852%2C%22model_selection_logic%22%3A3%7D&sp_atk=26dc1378-cc24-4e12-bb70-e7fe4ab83e61&xptdk=26dc1378-cc24-4e12-bb70-e7fe4ab83e61"
+  },
+  {
+   "id": "p17",
+   "title": "YAMAMAX PRO Mesin Semprot Hama GX26 Knapsack Power Sprayer 15L",
+   "brand": "YAMAMAX",
+   "price": 1650000,
+   "discountPrice": 1380500,
+   "discountLabel": "16%",
+   "image": "data/images/products/yamamx15l2takbiasa.jpg",
+   "shopeeUrl": "https://shopee.co.id/YAMAMAX-PRO-Mesin-Semprot-Hama-GX26-Knapsack-Power-Sprayer-15L-20L-i.1012583125.52952538118?extraParams=%7B%22display_model_id%22%3A272225017803%2C%22model_selection_logic%22%3A3%7D&sp_atk=fa99a417-9f63-4738-8ca4-381297b23a5c&xptdk=fa99a417-9f63-4738-8ca4-381297b23a5c"
+  },
+  {
+   "id": "p18",
+   "title": "YAMAMAX PRO Mesin Semprot Hama GX26 Knapsack Power Sprayer 20L",
+   "brand": "YAMAMAX",
+   "price": 1650000,
+   "discountPrice": 1410500,
+   "discountLabel": "14%",
+   "image": "data/images/products/yamamx20l2takbiasa.jpg",
+   "shopeeUrl": "https://shopee.co.id/YAMAMAX-PRO-Mesin-Semprot-Hama-GX26-Knapsack-Power-Sprayer-15L-20L-i.1012583125.52952538118?extraParams=%7B%22display_model_id%22%3A272225017803%2C%22model_selection_logic%22%3A3%7D&sp_atk=fa99a417-9f63-4738-8ca4-381297b23a5c&xptdk=fa99a417-9f63-4738-8ca4-381297b23a5c"
+  },
+  {
+   "id": "p19",
+   "title": "Mesin Semprot Hama YAMAMAX PRO 435 Knapsack Power Sprayer 4 Tak 20L",
+   "brand": "YAMAMAX",
+   "price": 1950000,
+   "discountPrice": 1750000,
+   "discountLabel": "10%",
+   "image": "data/images/products/yamamx20l4tak.jpg",
+   "shopeeUrl": "https://shopee.co.id/YAMAMAX-PRO-Mesin-Semprot-Hama-435-Knapsack-Power-Sprayer-4-Tak-20L-i.1012583125.55603232217?extraParams=%7B%22display_model_id%22%3A196347925492%2C%22model_selection_logic%22%3A3%7D&sp_atk=396d0c0c-5b12-43cb-ab85-d22abdc0fd84&xptdk=396d0c0c-5b12-43cb-ab85-d22abdc0fd84"
+  },
+  {
+   "id": "p20",
+   "title": "YAMAMAX PRO Mesin Semprot Hama GX26 TURBO Knapsack Power Sprayer 2 Tak 20L Double Chamber",
+   "brand": "YAMAMAX",
+   "price": 2000000,
+   "discountPrice": 1650000,
+   "discountLabel": "17%",
+   "image": "data/images/products/yamamax20lturbo.jpg",
+   "shopeeUrl": "https://shopee.co.id/YAMAMAX-PRO-Mesin-Semprot-Hama-GX26-TURBO-Knapsack-Power-Sprayer-2-Tak-20L-Double-Chamber-i.1012583125.47054291284?extraParams=%7B%22display_model_id%22%3A365402760749%2C%22model_selection_logic%22%3A3%7D&sp_atk=0b4afedd-d563-48f0-8140-793145d893c6&xptdk=0b4afedd-d563-48f0-8140-793145d893c6"
   }
 ]
