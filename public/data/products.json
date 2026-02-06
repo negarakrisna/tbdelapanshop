@@ -198,5 +198,15 @@
    "discountLabel": "17%",
    "image": "data/images/products/yamamax20lturbo.jpg",
    "shopeeUrl": "https://shopee.co.id/YAMAMAX-PRO-Mesin-Semprot-Hama-GX26-TURBO-Knapsack-Power-Sprayer-2-Tak-20L-Double-Chamber-i.1012583125.47054291284?extraParams=%7B%22display_model_id%22%3A365402760749%2C%22model_selection_logic%22%3A3%7D&sp_atk=0b4afedd-d563-48f0-8140-793145d893c6&xptdk=0b4afedd-d563-48f0-8140-793145d893c6"
+  },
+  {
+   "id": "p21",
+   "title": "KODENKI Mesin Semprot Air Tekanan Tinggi KD-8100 Water Jet Cleaner 450W",
+   "brand": "KODENKI",
+   "price": 750000,
+   "discountPrice": 710000,
+   "discountLabel": "17%",
+   "image": "data/images/products/jetcleaner.jpg",
+   "shopeeUrl": "https://shopee.co.id/KODENKI-Mesin-Semprot-Air-Tekanan-Tinggi-KD-8100-Water-Jet-Cleaner-450W-i.1012583125.54355496882?extraParams=%7B%22display_model_id%22%3A196361123201%2C%22model_selection_logic%22%3A3%7D&sp_atk=8878157d-9d78-49d4-8f6a-06591e37079c&xptdk=8878157d-9d78-49d4-8f6a-06591e37079c"
   }
 ]
