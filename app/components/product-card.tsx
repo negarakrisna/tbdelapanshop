@@ -2,6 +2,13 @@
 
 import Image from "next/image";
 
+// ✅ TAMBAHAN: biar TypeScript kenal fbq
+declare global {
+  interface Window {
+    fbq?: (...args: any[]) => void;
+  }
+}
+
 export type Product = {
   id: string;
   title: string;
@@ -10,7 +17,7 @@ export type Product = {
   discountPrice?: number;
   discountLabel?: string;
   image: string;
-  shopeeUrl?: string; // masih boleh ada di JSON, tapi kita gak pakai untuk klik utama
+  shopeeUrl?: string;
 };
 
 const WA_NUMBER = "6282244113366";
@@ -36,7 +43,12 @@ export default function ProductCard({ p }: { p: Product }) {
   const img = p.image?.startsWith("/") ? p.image : "/" + (p.image || "").replace(/^public\//, "");
   const waLink = buildWaLink(p);
 
+  // ✅ DIUBAH: tambah tracking pixel
   const openWa = () => {
+    if (typeof window !== "undefined" && window.fbq) {
+      window.fbq('track', 'Contact');
+    }
+
     window.open(waLink, "_blank", "noopener,noreferrer");
   };
 
@@ -84,7 +96,14 @@ export default function ProductCard({ p }: { p: Product }) {
           href={waLink}
           target="_blank"
           rel="noopener noreferrer"
-          onClick={(e) => e.stopPropagation()} // biar gak double open karena parent juga clickable
+          onClick={(e) => {
+            e.stopPropagation();
+
+            // ✅ TAMBAHAN: tracking klik WA
+            if (typeof window !== "undefined" && window.fbq) {
+              window.fbq('track', 'Contact');
+            }
+          }}
           className="mt-2 inline-block text-sm font-semibold text-blue-600 hover:underline"
         >
           Chat WhatsApp →
