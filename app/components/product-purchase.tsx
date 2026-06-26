@@ -1,15 +1,19 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { Product } from "../types/product";
 import QuantitySelector from "./quantity-selector";
 import { addToCart } from "../lib/cart";
+import { SITE } from "../config/site";
 
 function rupiah(n: number) {
   return new Intl.NumberFormat("id-ID").format(n);
 }
 
 export default function ProductPurchase({ product }: { product: Product }) {
+  const router = useRouter();
+
   const [qty, setQty] = useState(1);
   const [added, setAdded] = useState(false);
 
@@ -27,6 +31,26 @@ export default function ProductPurchase({ product }: { product: Product }) {
     setTimeout(() => {
       setAdded(false);
     }, 2000);
+  };
+
+  const handleBuyNow = () => {
+    addToCart(product, qty);
+    router.push("/checkout");
+  };
+
+  const handleChatWhatsapp = () => {
+    const message = `Halo Admin ${SITE.name} 👋
+
+Saya ingin bertanya mengenai produk ini:
+
+${product.title}
+
+Mohon info stok dan cara ordernya.`;
+
+    window.open(
+      `https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(message)}`,
+      "_blank"
+    );
   };
 
   return (
@@ -95,16 +119,26 @@ export default function ProductPurchase({ product }: { product: Product }) {
       <div className="mt-6 grid gap-3">
         <button
           type="button"
-          onClick={handleAddToCart}
+          onClick={handleBuyNow}
           disabled={product.isAvailable === false}
           className="rounded-xl bg-blue-600 px-5 py-3 text-sm font-bold text-white transition hover:bg-blue-700 disabled:cursor-not-allowed disabled:bg-slate-300"
+        >
+          Beli Sekarang
+        </button>
+
+        <button
+          type="button"
+          onClick={handleAddToCart}
+          disabled={product.isAvailable === false}
+          className="rounded-xl border border-blue-600 px-5 py-3 text-sm font-bold text-blue-700 transition hover:bg-blue-50 disabled:cursor-not-allowed disabled:border-slate-300 disabled:text-slate-400"
         >
           Tambah Keranjang
         </button>
 
         <button
           type="button"
-          className="rounded-xl border border-blue-600 px-5 py-3 text-sm font-bold text-blue-700 transition hover:bg-blue-50"
+          onClick={handleChatWhatsapp}
+          className="rounded-xl border border-green-500 px-5 py-3 text-sm font-bold text-green-700 transition hover:bg-green-50"
         >
           Chat WhatsApp
         </button>
