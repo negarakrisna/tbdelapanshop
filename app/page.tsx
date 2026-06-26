@@ -1,8 +1,8 @@
-import ProductCard, { Product } from "./components/product-card";
-import products from "../public/data/products.json";
+import ProductCard from "./components/product-card";
+import { getProducts } from "./lib/products";
 
 export default function Home() {
-  const list = products as unknown as Product[];
+  const list = getProducts();
 
   return (
     <main className="mx-auto max-w-7xl px-4 py-8">
